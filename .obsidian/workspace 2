@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ad46dd3d85267d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be0139595225eaa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "信息与数据模型/2.5.1 转换原则.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "598f6cd7695d546d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9376402d0e3f2229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5975c6ccdc0c8997",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d3f62ca8a448704",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "关系模式",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6c5a2096a1ffe91",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc4dca15af18d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65ca2f6295c4e51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "信息与数据模型/2.5.1 转换原则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3be0139595225eaa",
+  "lastOpenFiles": [
+    "信息与数据模型/2.5.1 转换原则.md",
+    "信息与数据模型/2.4逻辑模型.md",
+    "信息与数据模型/1对1关系转换合并关系.png",
+    "信息与数据模型/1对1关系转换独立关系.png",
+    "信息与数据模型/2.2数据模型.md",
+    "信息与数据模型/2.3..1概念模型-基本概念.md",
+    "数据库系统概述/1.1 DB DBMS DBA DBS.md",
+    "数据库系统概述/1.2.2 数据库系统组成.md",
+    "数据库系统概述/1.2.1 数据库系统特点.md",
+    "信息与数据模型/2.3.2 ER模型.md"
+  ]
+}

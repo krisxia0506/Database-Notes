@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "fad1bd239eab2429",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd32e1a521e6447",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "信息与数据模型/2.5.1 转换原则.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdbe5e1e95f47925",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8086374c0296321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396efa5656d92c13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "458034c7fee23560",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95b1115c173ec80c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b29dc8b9a146807e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "606cc08276975032",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "信息与数据模型/2.5.1 转换原则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8fd32e1a521e6447",
+  "lastOpenFiles": [
+    "信息与数据模型/2.5.1 转换原则.md"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "62af370a7cfdbd03",
+    "type": "split",
+    "children": [
+      {
+        "id": "3210d2e36e792e9c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f963b96a3e55b753",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a26d29fdb1998f14",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "bb6851ef4a9b7dca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3483400ac879d954",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c393bfe6bc7368e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3210d2e36e792e9c",
+  "lastOpenFiles": [
+    "信息与数据模型/2.4逻辑模型.md",
+    "数据库系统概述/1.1 DB DBMS DBA DBS.md",
+    "数据库系统概述/1.2.2 数据库系统组成.md",
+    "数据库系统概述/1.2.1 数据库系统特点.md",
+    "数据库/数据库系统概述/1.1 DB DBMS DBA DBS.md"
+  ]
+}
