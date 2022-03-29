@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1数据库系统概述/1.1 DB DBMS DBA DBS.md",
+            "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "主键",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1数据库系统概述/1.1 DB DBMS DBA DBS.md",
+                "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "09603ea4f7947798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324d60b569898a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,15 +113,15 @@
   },
   "active": "f94c2ff7d5e99975",
   "lastOpenFiles": [
+    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+    "2信息与数据模型/2.6 关系模式.md",
+    "2信息与数据模型/2.2数据模型.md",
+    "7MySQL表的定义与完整性约束/7.4数据表的操作.md",
+    "7MySQL表的定义与完整性约束/7.1 7.2 7.3基本概念、数据类型和运算符.md",
+    "6MySQL储存引擎与数据库操作管理/6.3 MySQL数据库的操作.md",
+    "6MySQL储存引擎与数据库操作管理/6.1 存储引擎.md",
+    "6MySQL储存引擎与数据库操作管理/6.2 字符集.md",
     "1数据库系统概述/1.1 DB DBMS DBA DBS.md",
-    "1数据库系统概述/1.2.1 数据库系统特点.md",
-    "3关系模型与关系数据库理论/模式分解的算法.md",
-    "3关系模型与关系数据库理论/无损连接性.md",
-    "3关系模型与关系数据库理论/保持函数依赖.md",
-    "3关系模型与关系数据库理论/3.4.3范式.md",
-    "3关系模型与关系数据库理论/3.4.2 函数依赖.md",
-    "3关系模型与关系数据库理论/3.3 关系代数表达式的优化.md",
-    "3关系模型与关系数据库理论/3.1.4 专门关系运算.md",
-    "3关系模型与关系数据库理论/3.1.2 3.1.3 关系代数运算.md"
+    "1数据库系统概述/1.2.2 数据库系统组成.md"
   ]
 }
