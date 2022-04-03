@@ -8,14 +8,14 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:数据库系统概述",
+      "query": "path:1数据库系统概述",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:信息与数据模型",
+      "query": "path:2信息与数据模型",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:8MySQL数据操作",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -48,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.495726495726496,
   "repelStrength": 8.88888888888889,
   "linkStrength": 0.521367521367521,
   "linkDistance": 106,
-  "scale": 0.7297893844750194,
+  "scale": 0.26483134987609075,
   "close": false
 }
