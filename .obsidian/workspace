@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07cc69815248301d",
+        "id": "95cac38e79bad7fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+            "file": "8MySQL数据操作/8.4.4高级查询.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "独立性",
+                "query": "count",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277
   },
   "right": {
     "id": "95b1115c173ec80c",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+                "file": "8MySQL数据操作/8.4.4高级查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md"
+                "file": "8MySQL数据操作/8.4.4高级查询.md"
               }
             }
           }
@@ -109,19 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 235
   },
-  "active": "07cc69815248301d",
+  "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
-    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+    "8MySQL数据操作/8.4.4高级查询.md",
+    "8MySQL数据操作/8.4.3 条件查询.md",
+    "8MySQL数据操作/8.4.1 SELECT和简单查询.md",
     "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
+    "8MySQL数据操作/8.5多表查询.md",
+    "8MySQL数据操作/集合查询.md",
     "7MySQL表的定义与完整性约束/7.4数据表的操作.md",
-    "8MySQL数据操作/8.4表单查询.md",
-    "3关系模型与关系数据库理论/3.1.4 专门关系运算.md",
-    "6MySQL储存引擎与数据库操作管理/6.1 存储引擎.md",
-    "3关系模型与关系数据库理论/3.3 关系代数表达式的优化.md",
-    "3关系模型与关系数据库理论/3.1.2 3.1.3 关系代数运算.md",
-    "2信息与数据模型/2.6 关系模式.md",
-    "1数据库系统概述/1.3.1三级模式.md"
+    "7MySQL表的定义与完整性约束/7.1 7.2 7.3基本概念、数据类型和运算符.md",
+    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+    "3关系模型与关系数据库理论/3.1.2 3.1.3 关系代数运算.md"
   ]
 }
