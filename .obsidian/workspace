@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8MySQL数据操作/8.5.2 子查询.md",
+            "file": "8MySQL数据操作/集合查询.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8MySQL数据操作/8.5.2 子查询.md",
+                "file": "8MySQL数据操作/集合查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8MySQL数据操作/8.5.2 子查询.md"
+                "file": "8MySQL数据操作/集合查询.md"
               }
             }
           }
@@ -113,15 +113,15 @@
   },
   "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
+    "8MySQL数据操作/集合查询.md",
     "8MySQL数据操作/8.5.2 子查询.md",
     "8MySQL数据操作/8.5.1 连接查询.md",
+    "Pasted image 20220414110520.png",
     "8MySQL数据操作/8.4.4高级查询.md",
     "8MySQL数据操作/8.4.1 SELECT和简单查询.md",
     "8MySQL数据操作/8.4.3 条件查询.md",
-    "8MySQL数据操作/集合查询.md",
     "README.md",
     "3关系模型与关系数据库理论/3.1.4 专门关系运算.md",
-    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
-    "7MySQL表的定义与完整性约束/7.4数据表的操作.md"
+    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md"
   ]
 }
