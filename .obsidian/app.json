@@ -4,5 +4,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "autoPairBrackets": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "showFrontmatter": true,
+  "rightToLeft": false,
+  "vimMode": false
 }
