@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8MySQL数据操作/8.5.2 子查询.md",
+            "file": "9MySQL索引/9.1 索引.md",
             "mode": "source",
             "source": false
           }
@@ -23,7 +23,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b8086374c0296321",
+        "id": "3d9a18c5d09178b8",
         "type": "tabs",
         "children": [
           {
@@ -33,14 +33,20 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b8086374c0296321",
+        "type": "tabs",
+        "children": [
           {
             "id": "458034c7fee23560",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "等值连接",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,35 +54,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 277
-  },
-  "right": {
-    "id": "95b1115c173ec80c",
-    "type": "split",
-    "children": [
-      {
-        "id": "b29dc8b9a146807e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "606cc08276975032",
+            "id": "324d60b569898a8b",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "8MySQL数据操作/8.5.2 子查询.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "9MySQL索引/9.1 索引.md"
               }
             }
           },
@@ -89,30 +74,24 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "09603ea4f7947798",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "324d60b569898a8b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "8MySQL数据操作/8.5.2 子查询.md"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 226
+  },
+  "right": {
+    "id": "95b1115c173ec80c",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 235,
+    "collapsed": true
   },
   "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
+    "9MySQL索引/9.1 索引.md",
+    "8MySQL数据操作/9.md",
     "8MySQL数据操作/8.5.2 子查询.md",
     "8MySQL数据操作/8.5.1 连接查询.md",
     "8MySQL数据操作/8.5.3集合查询.md",
@@ -120,8 +99,6 @@
     "Pasted image 20220414110520.png",
     "8MySQL数据操作/8.4.4高级查询.md",
     "8MySQL数据操作/8.4.1 SELECT和简单查询.md",
-    "8MySQL数据操作/8.4.3 条件查询.md",
-    "3关系模型与关系数据库理论/3.1.4 专门关系运算.md",
-    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md"
+    "8MySQL数据操作/8.4.3 条件查询.md"
   ]
 }
