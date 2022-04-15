@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9MySQL索引/9.2 索引的管理.md",
+            "file": "9MySQL索引/9.1 索引.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9MySQL索引/9.2 索引的管理.md"
+                "file": "9MySQL索引/9.1 索引.md"
               }
             }
           },
@@ -90,8 +90,8 @@
   },
   "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
-    "9MySQL索引/9.2 索引的管理.md",
     "9MySQL索引/9.1 索引.md",
+    "9MySQL索引/9.2 索引的管理.md",
     "9MySQL索引/123123123.md",
     "Untitled.md",
     "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
