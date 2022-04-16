@@ -7,5 +7,6 @@
   "autoPairMarkdown": false,
   "showFrontmatter": true,
   "rightToLeft": false,
-  "vimMode": false
+  "vimMode": false,
+  "useMarkdownLinks": false
 }

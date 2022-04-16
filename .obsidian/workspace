@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9MySQL索引/9.1 索引.md",
+            "file": "8MySQL数据操作/8.5.2 子查询.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unique",
+                "query": "删除",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9MySQL索引/9.1 索引.md"
+                "file": "8MySQL数据操作/8.5.2 子查询.md"
               }
             }
           },
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,22 +82,46 @@
   "right": {
     "id": "95b1115c173ec80c",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "da1dc59d509ca4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2f90a8cf3ac3de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8MySQL数据操作/8.5.2 子查询.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 235,
     "collapsed": true
   },
   "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
-    "9MySQL索引/9.1 索引.md",
-    "9MySQL索引/9.2 索引的管理.md",
-    "9MySQL索引/123123123.md",
-    "Untitled.md",
-    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
-    "8MySQL数据操作/9.md",
     "8MySQL数据操作/8.5.2 子查询.md",
     "8MySQL数据操作/8.5.1 连接查询.md",
     "8MySQL数据操作/8.5.3集合查询.md",
-    "README.md"
+    "9MySQL索引/9.3 索引设计原则和注意事项.md",
+    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
+    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md",
+    "7MySQL表的定义与完整性约束/7.4数据表的操作.md",
+    "8MySQL数据操作/8.4.4高级查询.md",
+    "8MySQL数据操作/8.4.3 条件查询.md",
+    "9MySQL索引/9.1 索引.md"
   ]
 }
