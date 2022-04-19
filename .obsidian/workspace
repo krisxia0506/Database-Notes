@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10MySQL视图/10.2 视图的定语和管理.md",
+            "file": "10MySQL视图/10.1 视图.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数据库笔记",
+                "query": "创建表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10MySQL视图/10.2 视图的定语和管理.md"
+                "file": "10MySQL视图/10.1 视图.md"
               }
             }
           },
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10MySQL视图/10.2 视图的定语和管理.md",
+                "file": "10MySQL视图/10.1 视图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "95cac38e79bad7fe",
   "lastOpenFiles": [
-    "10MySQL视图/10.2 视图的定语和管理.md",
     "10MySQL视图/10.1 视图.md",
-    "1数据库系统概述/1.3.1三级模式.md",
-    "1数据库系统概述/三级模式.png",
-    "9MySQL索引/9.1 索引.md",
+    "10MySQL视图/10.2 视图的定语和管理.md",
+    "10MySQL视图/10.3 更新视图数据.md",
+    "2信息与数据模型/2.5.1 转换原则.md",
+    "2信息与数据模型/2.4逻辑模型.md",
+    "2信息与数据模型/2.3.2 ER模型.md",
     "2信息与数据模型/2.3..1概念模型-基本概念.md",
     "2信息与数据模型/2.2数据模型.md",
-    "9MySQL索引/9.2 索引的管理.md",
-    "9MySQL索引/9.3 索引设计原则和注意事项.md",
-    "8MySQL数据操作/8.5.2 子查询.md"
+    "1数据库系统概述/BS和CS.md",
+    "1数据库系统概述/三级模式.png"
   ]
 }
