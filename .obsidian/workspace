@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "95cac38e79bad7fe",
+        "id": "4a4a459ef5e7d3ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10MySQL视图/10.1 视图.md",
+            "file": "10MySQL视图/10.2 视图的定语和管理.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "创建表",
+                "query": "update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10MySQL视图/10.1 视图.md"
+                "file": "10MySQL视图/10.2 视图的定语和管理.md"
               }
             }
           },
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10MySQL视图/10.1 视图.md",
+                "file": "10MySQL视图/10.2 视图的定语和管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +111,17 @@
     "width": 235,
     "collapsed": true
   },
-  "active": "95cac38e79bad7fe",
+  "active": "4a4a459ef5e7d3ce",
   "lastOpenFiles": [
-    "10MySQL视图/10.1 视图.md",
     "10MySQL视图/10.2 视图的定语和管理.md",
     "10MySQL视图/10.3 更新视图数据.md",
-    "2信息与数据模型/2.5.1 转换原则.md",
-    "2信息与数据模型/2.4逻辑模型.md",
-    "2信息与数据模型/2.3.2 ER模型.md",
-    "2信息与数据模型/2.3..1概念模型-基本概念.md",
-    "2信息与数据模型/2.2数据模型.md",
-    "1数据库系统概述/BS和CS.md",
-    "1数据库系统概述/三级模式.png"
+    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
+    "7MySQL表的定义与完整性约束/7.4数据表的操作.md",
+    "10MySQL视图/10.1 视图.md",
+    "9MySQL索引/9.2 索引的管理.md",
+    "9MySQL索引/9.1 索引.md",
+    "4数据库设计方法/4.3概念结构设计.md",
+    "4数据库设计方法/4.4 逻辑结构设计.md",
+    "4数据库设计方法/images/教师任课局部ER图.png"
   ]
 }
