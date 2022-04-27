@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a4a459ef5e7d3ce",
+        "id": "268dbb8edc91e093",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10MySQL视图/10.2 视图的定语和管理.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -46,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "update",
+                "query": "范式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,9 +56,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10MySQL视图/10.2 视图的定语和管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -73,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10MySQL视图/10.2 视图的定语和管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +105,17 @@
     "width": 235,
     "collapsed": true
   },
-  "active": "4a4a459ef5e7d3ce",
+  "active": "268dbb8edc91e093",
   "lastOpenFiles": [
-    "10MySQL视图/10.2 视图的定语和管理.md",
-    "10MySQL视图/10.3 更新视图数据.md",
-    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
-    "7MySQL表的定义与完整性约束/7.4数据表的操作.md",
-    "10MySQL视图/10.1 视图.md",
-    "9MySQL索引/9.2 索引的管理.md",
-    "9MySQL索引/9.1 索引.md",
-    "4数据库设计方法/4.3概念结构设计.md",
+    "4数据库设计方法/4.5物理结构设计.md",
     "4数据库设计方法/4.4 逻辑结构设计.md",
-    "4数据库设计方法/images/教师任课局部ER图.png"
+    "3关系模型与关系数据库理论/3.4.3范式.md",
+    "4数据库设计方法/4.3概念结构设计.md",
+    "3关系模型与关系数据库理论/模式分解的算法.md",
+    "3关系模型与关系数据库理论/保持函数依赖.md",
+    "3关系模型与关系数据库理论/3.4.2 函数依赖.md",
+    "4数据库设计方法/4.2 系统需求分析.md",
+    "4数据库设计方法/4.1 数据库设计概述.md",
+    "10MySQL视图/10.2 视图的定语和管理.md"
   ]
 }
