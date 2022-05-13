@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4数据库设计方法/4.4 逻辑结构设计.md",
+            "file": "3关系模型与关系数据库理论/3.4.2求候选码.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "删除数据",
+                "query": "外码",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4数据库设计方法/4.4 逻辑结构设计.md"
+                "file": "3关系模型与关系数据库理论/3.4.2求候选码.md"
               }
             }
           },
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4数据库设计方法/4.4 逻辑结构设计.md",
+                "file": "3关系模型与关系数据库理论/3.4.2求候选码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
   },
   "active": "268dbb8edc91e093",
   "lastOpenFiles": [
-    "4数据库设计方法/4.4 逻辑结构设计.md",
-    "4数据库设计方法/4.3概念结构设计.md",
-    "10MySQL视图/10.2 视图的定语和管理.md",
-    "10MySQL视图/10.3 更新视图数据.md",
-    "8MySQL数据操作/8.1、8.2、8.3 插入数据、修改数据、删除数据.md",
-    "8MySQL数据操作/8.5.1 连接查询.md",
-    "10MySQL视图/10.1 视图.md",
+    "3关系模型与关系数据库理论/3.4.2求候选码.md",
     "2信息与数据模型/2.6 关系模式.md",
-    "2信息与数据模型/2.2数据模型.md",
-    "7MySQL表的定义与完整性约束/7.5MySQL的约束控制.md"
+    "3关系模型与关系数据库理论/3.4.2 函数依赖.md",
+    "2信息与数据模型/2.5.1 转换原则.md",
+    "3关系模型与关系数据库理论/3.1.4 专门关系运算.md",
+    "3关系模型与关系数据库理论/3.1.2 3.1.3 关系代数运算.md",
+    "3关系模型与关系数据库理论/3.1.1关系代数.md",
+    "2信息与数据模型/2.3.2 ER模型.md",
+    "2信息与数据模型/ER模型实例.png",
+    "10MySQL视图/10.1 视图.md"
   ]
 }
